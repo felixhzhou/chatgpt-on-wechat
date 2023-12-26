@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
@@ -16,11 +16,11 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "永中H果山","都玩四字游戏"
+  
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "永中H果山","都玩四字游戏"
   ],
   "image_create_prefix": [
     "画"
