@@ -5,7 +5,7 @@
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
-  "proxy": "",
+  "proxy": "https://api.aiproxy.io",
   "hot_reload": false,
   "single_chat_prefix": [
     "bot",
